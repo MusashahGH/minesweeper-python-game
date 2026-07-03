@@ -1,4 +1,4 @@
-# 💣 Minesweeper Game (Python)
+D# 💣 Minesweeper Game (Python)
 
 A classic Minesweeper game built for the console using core Python concepts — 2D lists, nested loops, and functions.
 
@@ -30,9 +30,15 @@ A classic Minesweeper game built for the console using core Python concepts — 
 ## 🛠️ Tech Stack
 - Python 3
 
+
+
+
+
 ## 👤 Author
 **Musa Shah**
 - GitHub: [@MusashahGH](https://github.com/MusashahGH)
 
 ---
 *Part of my journey learning Python fundamentals through hands-on mini projects.* 🎯
+
+## 🎥 Demo Video
