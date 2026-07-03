@@ -1,4 +1,6 @@
-D# 💣 Minesweeper Game (Python)
+# 💣 Minesweeper Game (Python)
+
+> ⭐ **Found this project interesting?** Drop a star — it means a lot and keeps me motivated to build more cool stuff!
 
 A classic Minesweeper game built for the console using core Python concepts — 2D lists, nested loops, and functions.
 
@@ -42,3 +44,5 @@ A classic Minesweeper game built for the console using core Python concepts — 
 *Part of my journey learning Python fundamentals through hands-on mini projects.* 🎯
 
 ## 🎥 Demo Video
+Check out the demo video of this project on my LinkedIn:
+👉 [Watch Demo](yahan-linkedin-post-ka-link-daalna)
