@@ -49,5 +49,5 @@ Check out the demo video of this project on my LinkedIn:
 
 # Minesweeper Game 🎮
 
-![Minesweeper](./Minesweeper.jpeg)
+<img src="minesweeper%20game%20logo.jpg" alt="Minesweeper Game Logo" width="250" height="250">
 
