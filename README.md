@@ -46,3 +46,8 @@ A classic Minesweeper game built for the console using core Python concepts — 
 ## 🎥 Demo Video
 Check out the demo video of this project on my LinkedIn:
 👉 [Watch Demo](yahan-linkedin-post-ka-link-daalna)
+
+# Minesweeper Game 🎮
+
+![Minesweeper](./Minesweeper.jpeg)
+
