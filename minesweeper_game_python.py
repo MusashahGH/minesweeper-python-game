@@ -101,7 +101,7 @@ while guess < (25 - numMine):
         else:
             print("Already revealed! Try another cell.")
 
-        os.system("cls") #clear screen
+        os.system("cls" if os.name == 'nt' else 'clear') #clear screen
         displayBoard()
         if guess == (25 - numMine):
             print("🎉 Congratulations! You Win!")
